@@ -1,0 +1,150 @@
+{
+  "adminuser": [
+    {
+      "id": "1",
+      "name": "admin",
+      "adminid": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": "2",
+      "name": "Nazneen",
+      "adminid": "naz",
+      "password": "naz123"
+    },
+    {
+      "id": "3",
+      "name": "ayushi",
+      "adminid": "ayushibpl",
+      "password": "a1234"
+    }
+  ],
+  "shopping": [
+    {
+      "id": "1",
+      "name": "t shirt",
+      "price": 2300,
+      "description": "this is very good t shirt for men",
+      "category": "men",
+      "image": "https://m.media-amazon.com/images/I/713n+TxyfCL._SY879_.jpg",
+      "type": "new"
+    },
+    {
+      "id": "2",
+      "name": "t shirt",
+      "price": 2000,
+      "description": "this is very good t shirt for men",
+      "category": "men",
+      "image": "https://m.media-amazon.com/images/I/71hfutLZZ7L._SY879_.jpg",
+      "type": "old"
+    },
+    {
+      "id": "3",
+      "name": "t shirt",
+      "price": 560,
+      "description": "this is very good t shirt for men",
+      "category": "men",
+      "image": "https://m.media-amazon.com/images/I/31NfkV9hKXL._AC_UL480_FMwebp_QL65_.jpg",
+      "type": "new"
+    },
+    {
+      "id": "4",
+      "name": "t shirt",
+      "price": 300,
+      "description": "this is very good t shirt for men",
+      "category": "men",
+      "image": "https://m.media-amazon.com/images/I/713n+TxyfCL._SY879_.jpg",
+      "type": "new"
+    },
+    {
+      "id": "5",
+      "name": "t shirt",
+      "price": 200,
+      "description": "this is very good t shirt for men",
+      "category": "women",
+      "image": "https://m.media-amazon.com/images/I/512PXKTmPEL._SX679_.jpg",
+      "type": "old"
+    },
+    {
+      "id": "6",
+      "name": "t shirt",
+      "price": 2700,
+      "description": "this is very good t shirt for men",
+      "category": "women",
+      "image": "https://m.media-amazon.com/images/I/71F2alWcMhL._SY879_.jpg",
+      "type": "new"
+    },
+    {
+      "id": "7",
+      "name": "t shirt",
+      "price": 1200,
+      "description": "this is very good t shirt for men",
+      "category": "women",
+      "image": "https://m.media-amazon.com/images/I/61hLb3DSS4L._AC_UL480_FMwebp_QL65_.jpg",
+      "type": "new"
+    },
+    {
+      "id": "8",
+      "name": "t shirt",
+      "price": 3400,
+      "description": "this is very good t shirt for men",
+      "category": "kids",
+      "image": "https://m.media-amazon.com/images/I/611zUCDn1fL._SX679_.jpg",
+      "type": "old"
+    },
+    {
+      "id": "9",
+      "name": "t shirt",
+      "price": 1500,
+      "description": "this is very good t shirt for men",
+      "category": "kids",
+      "image": "https://m.media-amazon.com/images/I/81K-CgjNmnL._SY879_.jpg",
+      "type": "old"
+    },
+    {
+      "id": "10",
+      "name": "Baby Suite",
+      "price": 1500,
+      "description": "this is very good t shirt for men",
+      "category": "kids",
+      "image": "https://m.media-amazon.com/images/I/71QTyxEfCFL._SX569_.jpg",
+      "type": "new"
+    },
+    {
+      "id": "649e",
+      "name": "top",
+      "price": "600",
+      "description": "balck top for women",
+      "category": "women",
+      "image": "https://m.media-amazon.com/images/I/713wEcCIKRL._SY879_.jpg",
+      "type": "new"
+    },
+    {
+      "id": "51ad",
+      "name": "chanderi saree",
+      "price": "3500",
+      "description": "this is very silky saree white color for women",
+      "category": "women",
+      "image": "https://m.media-amazon.com/images/I/61Y+KffphOL._SY879_.jpg",
+      "type": "old"
+    },
+    {
+      "id": "c28d",
+      "name": "lower for baby",
+      "price": "300",
+      "description": "this is lower combo for kids",
+      "category": "kids",
+      "image": "https://m.media-amazon.com/images/I/61xkxtIVWAL._SX679_.jpg",
+      "type": "new"
+    },
+    {
+      "id": "9e8b",
+      "name": "t shirt",
+      "price": "700",
+      "description": "cotton t shirt for men",
+      "category": "men",
+      "image": "https://m.media-amazon.com/images/I/71DNOWgs62L._SY879_.jpg",
+      "type": "old"
+    }
+  ]
+}
